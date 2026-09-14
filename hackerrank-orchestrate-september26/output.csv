@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15656000.0,affordable_now,full_payment,2025-08-03:15656000,2025-08-03,none,A full payment of 1.5656e+07 is safe on the request date.
+request_27,6670.0,affordable_now,full_payment,2026-07-05:6670,2026-07-05,none,A full payment of 6670 is safe on the request date.
+request_28,429.49,affordable_later,wait,2024-06-15:1302.40,2024-06-15,none,Waiting until 2024-06-15 protects the minimum balance.
+request_29,51524.0,affordable_now,full_payment,2025-11-04:51524,2025-11-04,none,A full payment of 51524 is safe on the request date.
+request_30,775.2,affordable_with_plan,installments,2026-04-06:268.74|2026-05-06:268.74|2026-06-05:268.74,2026-04-06,none,The supplied installment schedule stays above the required minimum balance.
+request_31,1629678.65,affordable_later,wait,2024-10-15:18164000,2024-10-15,none,Waiting until 2024-10-15 protects the minimum balance.
+request_32,23199.0,affordable_later,wait,2025-02-15:40018,2025-02-15,none,Waiting until 2025-02-15 protects the minimum balance.
+request_33,46556.65,affordable_later,wait,2026-01-15:118000,2026-01-15,none,Waiting until 2026-01-15 protects the minimum balance.
+request_34,129400.0,affordable_now,full_payment,2024-12-04:129400,2024-12-04,none,A full payment of 129400 is safe on the request date.
+request_35,49343.55,affordable_later,wait,2025-11-15:212000,2025-11-15,none,Waiting until 2025-11-15 protects the minimum balance.
+request_36,921.23,affordable_later,wait,2026-07-15:3954,2026-07-15,none,Waiting until 2026-07-15 protects the minimum balance.
+request_37,6189426.47,affordable_later,wait,2024-03-15:14649000,2024-03-15,none,Waiting until 2024-03-15 protects the minimum balance.
+request_38,264.82,affordable_later,wait,2025-08-15:971.30,2025-08-15,none,Waiting until 2025-08-15 protects the minimum balance.
+request_39,149777.5,affordable_later,wait,2026-04-15:208600,2026-04-15,none,Waiting until 2026-04-15 protects the minimum balance.
+request_40,540.0,affordable_later,wait,2024-06-15:1290.30,2024-06-15,none,Waiting until 2024-06-15 protects the minimum balance.
+request_41,13092721.43,affordable_later,wait,2025-12-15:38760000,2025-12-15,none,Waiting until 2025-12-15 protects the minimum balance.
+request_42,52100.0,affordable_now,full_payment,2026-01-05:52100,2026-01-05,none,A full payment of 52100 is safe on the request date.
+request_43,9868266.98,affordable_later,wait,2024-09-15:43339000,2024-09-15,none,Waiting until 2024-09-15 protects the minimum balance.
+request_44,39281.2,affordable_later,wait,2025-02-15:95800,2025-02-15,none,Waiting until 2025-02-15 protects the minimum balance.
+request_45,5527819.4,affordable_later,wait,2026-07-15:21983000,2026-07-15,none,Waiting until 2026-07-15 protects the minimum balance.
+request_46,49450.0,affordable_with_plan,installments,2024-12-03:25714|2024-12-31:25714,2024-12-03,none,The supplied installment schedule stays above the required minimum balance.
+request_47,38114000.0,affordable_now,full_payment,2025-05-05:38114000,2025-05-05,none,A full payment of 3.8114e+07 is safe on the request date.
+request_48,45700.0,affordable_now,full_payment,2026-07-25:45700,2026-07-25,none,A full payment of 45700 is safe on the request date.
+request_49,13135510.14,affordable_with_plan,installments,2024-03-18:11902106.67|2024-04-18:11902106.67|2024-05-19:11902106.67,2024-03-15,none,The supplied installment schedule stays above the required minimum balance.
+request_50,43900.0,affordable_now,full_payment,2025-08-06:43900,2025-08-06,none,A full payment of 43900 is safe on the request date.
+request_51,2191000.0,affordable_now,full_payment,2026-01-03:2191000,2026-01-03,none,A full payment of 2.191e+06 is safe on the request date.
+request_52,26530.0,affordable_later,wait,2024-06-15:28870,2024-06-15,none,Waiting until 2024-06-15 protects the minimum balance.
+request_53,714.42,affordable_with_plan,installments,2025-11-21:589.06|2025-12-19:589.06|2026-01-16:589.06,2025-11-15,none,The supplied installment schedule stays above the required minimum balance.
+request_54,8928.26,not_affordable,not_recommended,none,2026-09-15,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_55,140671.7,affordable_with_plan,installments,2026-06-11:75781.33|2026-07-12:75781.33|2026-08-12:75781.33,2026-06-15,none,The supplied installment schedule stays above the required minimum balance.
+request_56,678.25,affordable_with_plan,partial_payment,2025-02-03:678.25|2025-02-15:203.31,2025-02-15,none,Pay 678.25 now and the remaining balance on the first safe full-payment date.
+request_57,10411.0,affordable_later,wait,2026-04-15:61446,2026-04-15,none,Waiting until 2026-04-15 protects the minimum balance.
+request_58,16226000.0,affordable_now,full_payment,2024-12-07:16226000,2024-12-07,none,A full payment of 1.6226e+07 is safe on the request date.
+request_59,140600.0,affordable_with_plan,installments,2025-05-07:48741.33|2025-06-04:48741.33|2025-07-02:48741.33,2025-05-04,none,The supplied installment schedule stays above the required minimum balance.
+request_60,188.34,affordable_later,wait,2026-01-15:199.89,2026-01-15,none,Waiting until 2026-01-15 protects the minimum balance.
+request_61,29062.0,affordable_with_plan,installments,2024-03-17:10074.83|2024-04-17:10074.83|2024-05-18:10074.83,2024-03-03,none,The supplied installment schedule stays above the required minimum balance.
+request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,2025-08-05,none,A full payment of 404.23 is safe on the request date.
+request_63,50865.71,affordable_with_plan,partial_payment,2026-07-07:50865.71|2026-09-15:293034.29,2026-09-15,none,Pay 50865.7 now and the remaining balance on the first safe full-payment date.
+request_64,0.0,not_affordable,not_recommended,none,,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_65,8359.38,not_affordable,not_recommended,none,2025-12-15,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_66,22200.0,affordable_now,full_payment,2026-04-03:22200,2026-04-03,none,A full payment of 22200 is safe on the request date.
+request_67,457.9,affordable_later,wait,2024-10-15:2094,2024-10-15,none,Waiting until 2024-10-15 protects the minimum balance.
+request_68,1556.28,affordable_with_plan,installments,2025-02-14:725.09|2025-03-14:725.09|2025-04-11:725.09,2025-02-23,none,The supplied installment schedule stays above the required minimum balance.
+request_69,529.1,affordable_now,full_payment,2026-01-04:529.10,2026-01-04,none,A full payment of 529.1 is safe on the request date.
+request_70,59952.21,affordable_later,wait,2024-12-15:243900,2024-12-15,none,Waiting until 2024-12-15 protects the minimum balance.
+request_71,1043852.59,affordable_later,wait,2025-06-15:21451000,2025-06-15,none,Waiting until 2025-06-15 protects the minimum balance.
+request_72,11330.0,affordable_now,full_payment,2026-07-05:11330,2026-07-05,none,A full payment of 11330 is safe on the request date.
+request_73,71400.0,affordable_now,full_payment,2023-01-20:71400,2023-01-20,none,A full payment of 71400 is safe on the request date.
+request_74,5010.0,affordable_now,full_payment,2025-08-04:5010,2025-08-04,none,A full payment of 5010 is safe on the request date.
+request_75,28270.0,affordable_with_plan,installments,2026-04-09:9800.27|2026-05-09:9800.27|2026-06-08:9800.27,2026-04-06,none,The supplied installment schedule stays above the required minimum balance.
+request_76,827.3,not_affordable,not_recommended,none,2024-07-15,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_77,60700.0,affordable_now,full_payment,2025-11-05:60700,2025-11-05,none,A full payment of 60700 is safe on the request date.
+request_78,50200.0,affordable_now,full_payment,2025-10-02:50200,2025-10-02,none,A full payment of 50200 is safe on the request date.
+request_79,666.6,affordable_with_plan,partial_payment,2024-09-04:666.60|2024-10-15:1485,2024-10-15,none,Pay 666.6 now and the remaining balance on the first safe full-payment date.
+request_80,120968.48,not_affordable,not_recommended,none,,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_81,2076.0,affordable_now,full_payment,2026-07-03:2076,2026-07-03,none,A full payment of 2076 is safe on the request date.
+request_82,543.45,affordable_later,wait,2024-12-15:1405.20,2024-12-15,none,Waiting until 2024-12-15 protects the minimum balance.
+request_83,9740.32,not_affordable,not_recommended,none,,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_84,25882.01,affordable_later,wait,2026-04-15:95400,2026-04-15,none,Waiting until 2026-04-15 protects the minimum balance.
+request_85,1709355.07,not_affordable,not_recommended,none,2024-04-15,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_86,46300.0,affordable_now,full_payment,2025-08-03:46300,2025-08-03,none,A full payment of 46300 is safe on the request date.
+request_87,44248.12,not_affordable,not_recommended,none,,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_88,11959.79,affordable_with_plan,installments,2024-06-14:9045.23|2024-07-15:9045.23|2024-08-15:9045.23,2024-06-15,none,The supplied installment schedule stays above the required minimum balance.
+request_89,10131542.42,affordable_with_plan,installments,2025-11-18:4768746.67|2025-12-16:4768746.67|2026-01-13:4768746.67,2025-11-15,none,The supplied installment schedule stays above the required minimum balance.
+request_90,2560.0,affordable_now,full_payment,2026-07-06:2560,2026-07-06,none,A full payment of 2560 is safe on the request date.
+request_91,449.65,affordable_later,wait,2024-09-15:1927.20,2024-09-15,none,Waiting until 2024-09-15 protects the minimum balance.
+request_92,34034.0,affordable_now,full_payment,2025-02-05:34034,2025-02-05,none,A full payment of 34034 is safe on the request date.
+request_93,1729.2,affordable_now,full_payment,2026-04-07:1729.20,2026-04-07,none,A full payment of 1729.2 is safe on the request date.
+request_94,572.0,affordable_now,full_payment,2024-12-04:572,2024-12-04,none,A full payment of 572 is safe on the request date.
+request_95,25945.04,not_affordable,not_recommended,none,2025-06-23,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_96,80410.81,affordable_with_plan,installments,2026-01-10:31269.33|2026-02-09:31269.33|2026-03-11:31269.33,2026-01-15,none,The supplied installment schedule stays above the required minimum balance.
+request_97,2929.44,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,2024-04-15,none,The supplied installment schedule stays above the required minimum balance.
+request_98,11274.77,affordable_later,wait,2025-08-15:27148,2025-08-15,none,Waiting until 2025-08-15 protects the minimum balance.
+request_99,18062.0,affordable_now,full_payment,2026-07-04:18062,2026-07-04,none,A full payment of 18062 is safe on the request date.
+request_100,29616.17,affordable_with_plan,installments,2024-06-13:12866.19|2024-07-14:12866.19|2024-08-14:12866.19,2024-06-15,none,The supplied installment schedule stays above the required minimum balance.
+request_101,143500.0,affordable_now,full_payment,2025-11-03:143500,2025-11-03,none,A full payment of 143500 is safe on the request date.
+request_102,1716.0,affordable_with_plan,installments,2026-04-05:594.88|2026-05-05:594.88|2026-06-04:594.88,2026-04-05,none,The supplied installment schedule stays above the required minimum balance.
+request_103,21711.66,affordable_later,wait,2024-10-15:368300,2024-10-15,none,Waiting until 2024-10-15 protects the minimum balance.
+request_104,17204.0,affordable_now,full_payment,2025-02-04:17204,2025-02-04,none,A full payment of 17204 is safe on the request date.
+request_105,48959.86,affordable_later,wait,2026-06-15:53500,2026-06-15,none,Waiting until 2026-06-15 protects the minimum balance.
+request_106,1064.54,affordable_later,wait,2024-12-15:2207.70,2024-12-15,none,Waiting until 2024-12-15 protects the minimum balance.
+request_107,1578.65,not_affordable,not_recommended,none,2025-07-15,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_108,3764.14,affordable_later,wait,2026-09-15:55308,2026-09-15,none,Waiting until 2026-09-15 protects the minimum balance.
+request_109,657.39,affordable_with_plan,installments,2024-03-18:645.98|2024-04-18:645.98|2024-05-19:645.98,2024-04-15,none,The supplied installment schedule stays above the required minimum balance.
+request_110,22352.0,affordable_with_plan,installments,2025-08-06:7748.69|2025-09-03:7748.69|2025-10-01:7748.69,2025-08-06,none,The supplied installment schedule stays above the required minimum balance.
+request_111,16625000.0,affordable_now,full_payment,2026-04-03:16625000,2026-04-03,none,A full payment of 1.6625e+07 is safe on the request date.
+request_112,271.7,affordable_now,full_payment,2024-06-05:271.70,2024-06-05,none,A full payment of 271.7 is safe on the request date.
+request_113,36500.0,affordable_now,full_payment,2026-09-04:36500,2026-09-04,none,A full payment of 36500 is safe on the request date.
+request_114,64581.67,affordable_with_plan,full_payment,2026-01-04:65300,2026-01-15,stop:event_10559,A full payment of 65300 is safe on the request date with permitted spending changes.
+request_115,16371.71,affordable_later,wait,2024-09-15:80500,2024-09-15,none,Waiting until 2024-09-15 protects the minimum balance.
+request_116,27680.16,not_affordable,not_recommended,none,2025-04-15,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_117,880.0,affordable_now,full_payment,2026-07-05:880,2026-07-05,none,A full payment of 880 is safe on the request date.
+request_118,735.91,affordable_with_plan,installments,2024-12-07:255.87|2025-01-07:255.87|2025-02-07:255.87,2024-12-15,none,The supplied installment schedule stays above the required minimum balance.
+request_119,70146.78,affordable_with_plan,installments,2025-05-18:70546.67|2025-06-15:70546.67|2025-07-13:70546.67,2025-06-15,none,The supplied installment schedule stays above the required minimum balance.
+request_120,7327610.37,affordable_with_plan,full_payment,2026-04-06:7714000,2026-04-15,stop:event_11086,A full payment of 7.714e+06 is safe on the request date with permitted spending changes.
+request_121,633.6,affordable_now,full_payment,2024-03-03:633.60,2024-03-03,none,A full payment of 633.6 is safe on the request date.
+request_122,20558000.0,affordable_with_plan,installments,2025-08-05:7126773.33|2025-09-02:7126773.33|2025-09-30:7126773.33,2025-08-05,none,The supplied installment schedule stays above the required minimum balance.
+request_123,4076000.0,affordable_now,full_payment,2026-01-07:4076000,2026-01-07,none,A full payment of 4.076e+06 is safe on the request date.
+request_124,1498.4,affordable_with_plan,installments,2024-06-11:1076.12|2024-07-12:1076.12|2024-08-12:1076.12,2024-07-15,none,The supplied installment schedule stays above the required minimum balance.
+request_125,6468.0,affordable_now,full_payment,2025-11-06:6468,2025-11-06,none,A full payment of 6468 is safe on the request date.
+request_126,159600.0,affordable_now,full_payment,2026-07-03:159600,2026-07-03,none,A full payment of 159600 is safe on the request date.
+request_127,14028.95,affordable_later,wait,2024-09-15:23980,2024-09-15,none,Waiting until 2024-09-15 protects the minimum balance.
+request_128,25168.0,affordable_now,full_payment,2025-02-07:25168,2025-02-07,none,A full payment of 25168 is safe on the request date.
+request_129,154.54,not_affordable,not_recommended,none,2026-05-15,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_130,487.41,affordable_later,wait,2024-12-15:1978.80,2024-12-15,none,Waiting until 2024-12-15 protects the minimum balance.
+request_131,1332.29,affordable_with_plan,installments,2025-05-06:643.14|2025-06-03:643.14|2025-07-01:643.14,2025-05-23,none,The supplied installment schedule stays above the required minimum balance.
+request_132,379.86,affordable_now,full_payment,2026-01-05:379.86,2026-01-05,none,A full payment of 379.86 is safe on the request date.
+request_133,15770000.0,not_affordable,not_recommended,none,2024-03-07,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_134,5488231.6,affordable_later,wait,2025-09-15:21831000,2025-09-15,none,Waiting until 2025-09-15 protects the minimum balance.
+request_135,304.8,affordable_now,full_payment,2026-07-06:304.80,2026-07-06,none,A full payment of 304.8 is safe on the request date.
+request_136,554.02,affordable_with_plan,full_payment,2024-06-03:560.40,2024-06-15,reduce_to:event_12498:27.20,A full payment of 560.4 is safe on the request date with permitted spending changes.
+request_137,30074.77,affordable_later,wait,2025-11-15:80100,2025-11-15,none,Waiting until 2025-11-15 protects the minimum balance.
+request_138,899.43,affordable_with_plan,partial_payment,2026-04-07:899.43|2026-04-15:357.51,2026-04-15,none,Pay 899.43 now and the remaining balance on the first safe full-payment date.
+request_139,1958.95,affordable_with_plan,installments,2024-09-07:802.88|2024-10-08:802.88|2024-11-08:802.88,2024-09-15,none,The supplied installment schedule stays above the required minimum balance.
+request_140,3239.64,not_affordable,not_recommended,none,2025-03-15,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_141,29806.27,not_affordable,not_recommended,none,2026-02-15,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_142,1263.6,affordable_now,full_payment,2024-12-05:1263.60,2024-12-05,none,A full payment of 1263.6 is safe on the request date.
+request_143,4169.49,affordable_later,wait,2025-05-15:12584,2025-05-15,none,Waiting until 2025-05-15 protects the minimum balance.
+request_144,233.34,affordable_now,full_payment,2026-07-04:233.34,2026-07-04,none,A full payment of 233.34 is safe on the request date.
+request_145,68309.41,affordable_with_plan,installments,2024-03-20:75365.33|2024-04-20:75365.33|2024-05-21:75365.33,2024-03-15,none,The supplied installment schedule stays above the required minimum balance.
+request_146,19393.07,affordable_later,wait,2025-10-15:449400,2025-10-15,none,Waiting until 2025-10-15 protects the minimum balance.
+request_147,461.91,affordable_with_plan,installments,2026-04-08:391.63|2026-05-08:391.63|2026-06-07:391.63,2026-05-15,none,The supplied installment schedule stays above the required minimum balance.
+request_148,8179.36,affordable_with_plan,installments,2024-06-14:7710.56|2024-07-15:7710.56|2024-08-15:7710.56,2024-06-15,none,The supplied installment schedule stays above the required minimum balance.
+request_149,24175.81,affordable_with_plan,installments,2025-11-18:12706.03|2025-12-16:12706.03|2026-01-13:12706.03,2025-11-15,none,The supplied installment schedule stays above the required minimum balance.
+request_150,386.46,affordable_with_plan,installments,2026-01-06:171.98|2026-02-05:171.98|2026-03-07:171.98,2026-01-15,none,The supplied installment schedule stays above the required minimum balance.
+request_151,26999000.0,affordable_now,full_payment,2024-09-03:26999000,2024-09-03,none,A full payment of 2.6999e+07 is safe on the request date.
+request_152,12818.99,affordable_with_plan,installments,2025-02-12:4812.43|2025-03-12:4812.43|2025-04-09:4812.43,2025-02-15,none,The supplied installment schedule stays above the required minimum balance.
+request_153,81.15,affordable_later,wait,2026-08-15:2830.80,2026-08-15,none,Waiting until 2026-08-15 protects the minimum balance.
+request_154,1625.8,affordable_with_plan,installments,2024-12-04:563.61|2025-01-04:563.61|2025-02-04:563.61,2024-12-04,none,The supplied installment schedule stays above the required minimum balance.
+request_155,112500.0,affordable_now,full_payment,2025-05-06:112500,2025-05-06,none,A full payment of 112500 is safe on the request date.
+request_156,8651.43,affordable_later,wait,2026-04-15:43076,2026-04-15,none,Waiting until 2026-04-15 protects the minimum balance.
+request_157,5780227.33,affordable_later,wait,2024-03-15:23503000,2024-03-15,none,Waiting until 2024-03-15 protects the minimum balance.
+request_158,242600.0,affordable_with_plan,installments,2025-08-07:84101.33|2025-09-04:84101.33|2025-10-02:84101.33,2025-08-07,none,The supplied installment schedule stays above the required minimum balance.
+request_159,13398.0,affordable_now,full_payment,2026-01-04:13398,2026-01-04,none,A full payment of 13398 is safe on the request date.
+request_160,560.31,affordable_with_plan,installments,2024-06-13:432.05|2024-07-14:432.05|2024-08-14:432.05,2024-06-15,none,The supplied installment schedule stays above the required minimum balance.
+request_161,0.0,not_affordable,not_recommended,none,,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_162,4603254.21,affordable_later,wait,2026-08-15:83923000,2026-08-15,none,Waiting until 2026-08-15 protects the minimum balance.
+request_163,11990519.06,affordable_with_plan,installments,2024-09-10:6692053.33|2024-10-11:6692053.33|2024-11-11:6692053.33,2024-09-15,none,The supplied installment schedule stays above the required minimum balance.
+request_164,27018000.0,affordable_with_plan,installments,2025-02-11:9366240|2025-03-11:9366240|2025-04-08:9366240,2025-02-04,none,The supplied installment schedule stays above the required minimum balance.
+request_165,80600.0,affordable_now,full_payment,2026-04-06:80600,2026-04-06,none,A full payment of 80600 is safe on the request date.
+request_166,2907.6,affordable_with_plan,installments,2024-12-03:1007.97|2025-01-03:1007.97|2025-02-03:1007.97,2024-12-03,none,The supplied installment schedule stays above the required minimum balance.
+request_167,43802.0,affordable_now,full_payment,2025-05-05:43802,2025-05-05,none,A full payment of 43802 is safe on the request date.
+request_168,42462.3,affordable_with_plan,partial_payment,2026-01-07:42462.30|2026-01-15:6917.70,2026-01-15,none,Pay 42462.3 now and the remaining balance on the first safe full-payment date.
+request_169,41976.0,affordable_now,full_payment,2024-03-04:41976,2024-03-04,none,A full payment of 41976 is safe on the request date.
+request_170,34633492.64,affordable_with_plan,installments,2025-08-06:12804480|2025-09-03:12804480|2025-10-01:12804480,2025-08-15,none,The supplied installment schedule stays above the required minimum balance.
+request_171,77.23,not_affordable,not_recommended,none,2026-08-15,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_172,10200.0,affordable_with_plan,installments,2024-06-05:5304|2024-07-03:5304,2024-06-05,none,The supplied installment schedule stays above the required minimum balance.
+request_173,62460.52,affordable_with_plan,installments,2025-11-21:39173.33|2025-12-19:39173.33|2026-01-16:39173.33,2025-11-15,none,The supplied installment schedule stays above the required minimum balance.
+request_174,1146.2,affordable_with_plan,installments,2026-04-04:397.35|2026-05-04:397.35|2026-06-03:397.35,2026-04-04,none,The supplied installment schedule stays above the required minimum balance.
+request_175,2346.3,affordable_now,full_payment,2024-09-06:2346.30,2024-09-06,none,A full payment of 2346.3 is safe on the request date.
+request_176,389.17,affordable_later,wait,2025-04-15:1239.70,2025-04-15,none,Waiting until 2025-04-15 protects the minimum balance.
+request_177,1017.6,affordable_now,full_payment,2026-01-05:1017.60,2026-01-05,none,A full payment of 1017.6 is safe on the request date.
+request_178,2938.1,affordable_with_plan,installments,2024-12-07:1018.54|2025-01-07:1018.54|2025-02-07:1018.54,2024-12-07,none,The supplied installment schedule stays above the required minimum balance.
+request_179,24924240.04,affordable_later,wait,2025-05-15:41648000,2025-05-15,none,Waiting until 2025-05-15 protects the minimum balance.
+request_180,66500.0,affordable_now,full_payment,2026-07-06:66500,2026-07-06,none,A full payment of 66500 is safe on the request date.
+request_181,262.7,affordable_later,wait,2024-05-15:5059.20,2024-05-15,none,Waiting until 2024-05-15 protects the minimum balance.
+request_182,65714.0,affordable_now,full_payment,2025-08-05:65714,2025-08-05,none,A full payment of 65714 is safe on the request date.
+request_183,23520726.23,affordable_with_plan,installments,2026-04-10:9313546.67|2026-05-10:9313546.67|2026-06-09:9313546.67,2026-04-15,none,The supplied installment schedule stays above the required minimum balance.
+request_184,18426.84,not_affordable,not_recommended,none,2024-07-15,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_185,540.11,affordable_later,wait,2025-11-15:1257.30,2025-11-15,none,Waiting until 2025-11-15 protects the minimum balance.
+request_186,13524.6,affordable_later,wait,2026-02-15:26554,2026-02-15,none,Waiting until 2026-02-15 protects the minimum balance.
+request_187,45576.87,affordable_later,wait,2024-09-15:187500,2024-09-15,none,Waiting until 2024-09-15 protects the minimum balance.
+request_188,318.3,affordable_later,wait,2025-03-15:2464,2025-03-15,none,Waiting until 2025-03-15 protects the minimum balance.
+request_189,488.4,affordable_now,full_payment,2026-07-04:488.40,2026-07-04,none,A full payment of 488.4 is safe on the request date.
+request_190,623.7,affordable_later,wait,2025-01-15:2557.50,2025-01-15,none,Waiting until 2025-01-15 protects the minimum balance.
+request_191,664.4,affordable_now,full_payment,2025-05-03:664.40,2025-05-03,none,A full payment of 664.4 is safe on the request date.
+request_192,297.26,affordable_later,wait,2026-06-15:2046,2026-06-15,none,Waiting until 2026-06-15 protects the minimum balance.
+request_193,211.39,affordable_with_plan,installments,2024-03-21:420.23|2024-04-21:420.23|2024-05-22:420.23,2024-03-15,none,The supplied installment schedule stays above the required minimum balance.
+request_194,26172.16,affordable_later,wait,2025-08-23:132800,2025-08-23,none,Waiting until 2025-08-23 protects the minimum balance.
+request_195,1032.83,affordable_with_plan,installments,2026-01-09:405.74|2026-02-08:405.74|2026-03-10:405.74,2026-01-15,none,The supplied installment schedule stays above the required minimum balance.
+request_196,762.3,affordable_now,full_payment,2024-06-03:762.30,2024-06-03,none,A full payment of 762.3 is safe on the request date.
+request_197,28148815.36,not_affordable,not_recommended,none,,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_198,185800.0,affordable_now,full_payment,2026-07-07:185800,2026-07-07,none,A full payment of 185800 is safe on the request date.
+request_199,23674000.0,affordable_with_plan,installments,2024-09-07:8206986.67|2024-10-08:8206986.67|2024-11-08:8206986.67,2024-09-04,none,The supplied installment schedule stays above the required minimum balance.
+request_200,21717000.0,affordable_now,full_payment,2025-02-06:21717000,2025-02-06,none,A full payment of 2.1717e+07 is safe on the request date.
+request_201,23997000.0,affordable_now,full_payment,2026-04-03:23997000,2026-04-03,none,A full payment of 2.3997e+07 is safe on the request date.
+request_202,123900.0,affordable_now,full_payment,2024-12-05:123900,2024-12-05,none,A full payment of 123900 is safe on the request date.
+request_203,1442.1,affordable_with_plan,installments,2025-05-10:499.93|2025-06-07:499.93|2025-07-05:499.93,2025-05-07,none,The supplied installment schedule stays above the required minimum balance.
+request_204,520.8,affordable_later,wait,2026-01-15:588.74,2026-01-15,none,Waiting until 2026-01-15 protects the minimum balance.
+request_205,10621000.0,affordable_now,full_payment,2024-03-06:10621000,2024-03-06,none,A full payment of 1.0621e+07 is safe on the request date.
+request_206,1404.7,affordable_with_plan,installments,2025-08-03:486.96|2025-08-31:486.96|2025-09-28:486.96,2025-08-03,none,The supplied installment schedule stays above the required minimum balance.
+request_207,8164.3,affordable_later,wait,2026-07-15:11830,2026-07-15,none,Waiting until 2026-07-15 protects the minimum balance.
+request_208,4413000.0,affordable_now,full_payment,2024-06-07:4413000,2024-06-07,none,A full payment of 4.413e+06 is safe on the request date.
+request_209,3034.53,not_affordable,not_recommended,none,2026-01-15,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_210,825.21,affordable_with_plan,partial_payment,2026-04-06:825.21|2026-04-15:534.81,2026-04-15,none,Pay 825.21 now and the remaining balance on the first safe full-payment date.
+request_211,591.04,affordable_later,wait,2024-10-15:1788.60,2024-10-15,none,Waiting until 2024-10-15 protects the minimum balance.
+request_212,2166477.74,affordable_later,wait,2025-04-23:71934000,2025-04-23,none,Waiting until 2025-04-23 protects the minimum balance.
+request_213,3362.4,affordable_with_plan,installments,2026-01-21:1165.63|2026-02-20:1165.63|2026-03-22:1165.63,2026-01-07,none,The supplied installment schedule stays above the required minimum balance.
+request_214,64125.74,affordable_with_plan,partial_payment,2024-12-04:64125.74|2024-12-15:5624.26,2024-12-15,none,Pay 64125.7 now and the remaining balance on the first safe full-payment date.
+request_215,29986.0,affordable_with_plan,installments,2025-05-09:10395.15|2025-06-06:10395.15|2025-07-04:10395.15,2025-05-06,none,The supplied installment schedule stays above the required minimum balance.
+request_216,598.19,affordable_later,wait,2026-07-15:3332.40,2026-07-15,none,Waiting until 2026-07-15 protects the minimum balance.
+request_217,21511.16,affordable_with_plan,installments,2024-03-19:12889.07|2024-04-19:12889.07|2024-05-20:12889.07,2024-04-15,none,The supplied installment schedule stays above the required minimum balance.
+request_218,27947319.37,affordable_with_plan,installments,2025-08-07:21195893.33|2025-09-04:21195893.33|2025-10-02:21195893.33,2025-09-15,none,The supplied installment schedule stays above the required minimum balance.
+request_219,1343.17,affordable_with_plan,installments,2026-04-07:580.01|2026-05-07:580.01|2026-06-06:580.01,2026-04-15,none,The supplied installment schedule stays above the required minimum balance.
+request_220,188.18,not_affordable,not_recommended,none,2024-07-15,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_221,109800.0,affordable_now,full_payment,2025-11-03:109800,2025-11-03,none,A full payment of 109800 is safe on the request date.
+request_222,34078.0,affordable_now,full_payment,2026-01-05:34078,2026-01-05,none,A full payment of 34078 is safe on the request date.
+request_223,898.7,affordable_now,full_payment,2024-09-07:898.70,2024-09-07,none,A full payment of 898.7 is safe on the request date.
+request_224,9809637.79,affordable_with_plan,partial_payment,2025-02-04:9809637.79|2025-02-15:517362.21,2025-02-15,none,Pay 9.80964e+06 now and the remaining balance on the first safe full-payment date.
+request_225,10048669.57,affordable_with_plan,installments,2026-07-20:7647120|2026-08-19:7647120|2026-09-18:7647120,2026-07-15,none,The supplied installment schedule stays above the required minimum balance.
+request_226,157000.0,affordable_now,full_payment,2024-12-03:157000,2024-12-03,none,A full payment of 157000 is safe on the request date.
+request_227,18770.52,not_affordable,not_recommended,none,2025-06-15,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_228,6009218.67,affordable_later,wait,2026-05-15:63327000,2026-05-15,none,Waiting until 2026-05-15 protects the minimum balance.
+request_229,463.44,affordable_with_plan,installments,2024-03-18:529.29|2024-04-18:529.29|2024-05-19:529.29,2024-03-15,none,The supplied installment schedule stays above the required minimum balance.
+request_230,3537.6,affordable_now,full_payment,2025-08-06:3537.60,2025-08-06,none,A full payment of 3537.6 is safe on the request date.
+request_231,31586.38,affordable_with_plan,installments,2026-01-06:12378.08|2026-02-05:12378.08|2026-03-07:12378.08,2026-02-15,none,The supplied installment schedule stays above the required minimum balance.
+request_232,1062.97,affordable_later,wait,2024-06-15:1970.10,2024-06-15,none,Waiting until 2024-06-15 protects the minimum balance.
+request_233,0.0,not_affordable,not_recommended,none,,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_234,343.82,affordable_later,wait,2026-07-15:1213.30,2026-07-15,none,Waiting until 2026-07-15 protects the minimum balance.
+request_235,967.2,affordable_now,full_payment,2024-09-06:967.20,2024-09-06,none,A full payment of 967.2 is safe on the request date.
+request_236,7443718.01,not_affordable,not_recommended,none,2025-03-15,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_237,23826000.0,affordable_now,full_payment,2026-04-05:23826000,2026-04-05,none,A full payment of 2.3826e+07 is safe on the request date.
+request_238,663.6,affordable_with_plan,installments,2024-12-07:230.05|2025-01-07:230.05|2025-02-07:230.05,2024-12-07,none,The supplied installment schedule stays above the required minimum balance.
+request_239,642.0,affordable_now,full_payment,2025-05-04:642,2025-05-04,none,A full payment of 642 is safe on the request date.
+request_240,18578.76,affordable_with_plan,partial_payment,2026-01-06:18578.76|2026-02-15:82621.24,2026-02-15,none,Pay 18578.8 now and the remaining balance on the first safe full-payment date.
+request_241,21052000.0,affordable_with_plan,installments,2024-03-17:7298026.67|2024-04-17:7298026.67|2024-05-18:7298026.67,2024-03-03,none,The supplied installment schedule stays above the required minimum balance.
+request_242,0.0,not_affordable,not_recommended,none,,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_243,17468.0,affordable_now,full_payment,2026-07-07:17468,2026-07-07,none,A full payment of 17468 is safe on the request date.
+request_244,49918.0,affordable_now,full_payment,2024-06-04:49918,2024-06-04,none,A full payment of 49918 is safe on the request date.
+request_245,48383.96,affordable_later,wait,2025-11-15:128500,2025-11-15,none,Waiting until 2025-11-15 protects the minimum balance.
+request_246,64086.0,affordable_with_plan,installments,2026-04-03:22216.48|2026-05-03:22216.48|2026-06-02:22216.48,2026-04-03,none,The supplied installment schedule stays above the required minimum balance.
+request_247,1059.3,affordable_now,full_payment,2024-09-05:1059.30,2024-09-05,none,A full payment of 1059.3 is safe on the request date.
+request_248,1026.8,affordable_with_plan,partial_payment,2025-02-07:1026.80|2025-03-15:938.80,2025-03-15,none,Pay 1026.8 now and the remaining balance on the first safe full-payment date.
+request_249,168.4,affordable_later,wait,2026-02-15:643.20,2026-02-15,none,Waiting until 2026-02-15 protects the minimum balance.
+request_250,17762.28,affordable_with_plan,partial_payment,2024-12-06:17762.28|2025-01-15:106515.72,2025-01-15,none,Pay 17762.3 now and the remaining balance on the first safe full-payment date.
+request_251,1513.6,not_affordable,not_recommended,none,2025-05-03,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_252,5800091.46,affordable_later,wait,2026-07-15:28082000,2026-07-15,none,Waiting until 2026-07-15 protects the minimum balance.
+request_253,1636.96,affordable_with_plan,installments,2024-03-21:984.60|2024-04-21:984.60|2024-05-22:984.60,2024-03-15,none,The supplied installment schedule stays above the required minimum balance.
+request_254,878.13,affordable_later,wait,2025-08-15:3535.20,2025-08-15,none,Waiting until 2025-08-15 protects the minimum balance.
+request_255,3345000.0,affordable_now,full_payment,2026-04-06:3345000,2026-04-06,none,A full payment of 3.345e+06 is safe on the request date.
+request_256,180215.52,affordable_with_plan,installments,2024-06-10:75816|2024-07-11:75816|2024-08-11:75816,2024-06-15,none,The supplied installment schedule stays above the required minimum balance.
+request_257,330.4,affordable_later,wait,2025-12-15:1352.40,2025-12-15,none,Waiting until 2025-12-15 protects the minimum balance.
+request_258,1113.6,affordable_now,full_payment,2026-01-07:1113.60,2026-01-07,none,A full payment of 1113.6 is safe on the request date.
+request_259,447.88,affordable_later,wait,2024-09-15:935,2024-09-15,none,Waiting until 2024-09-15 protects the minimum balance.
+request_260,8840452.15,affordable_with_plan,partial_payment,2025-02-06:8840452.15|2025-03-15:43238547.85,2025-03-15,none,Pay 8.84045e+06 now and the remaining balance on the first safe full-payment date.
+request_261,1830.4,affordable_now,full_payment,2026-07-03:1830.40,2026-07-03,none,A full payment of 1830.4 is safe on the request date.
+request_262,9236000.0,affordable_now,full_payment,2024-12-05:9236000,2024-12-05,none,A full payment of 9.236e+06 is safe on the request date.
+request_263,9323.96,affordable_with_plan,partial_payment,2025-05-07:9323.96|2025-05-15:42222.04,2025-05-15,none,Pay 9323.96 now and the remaining balance on the first safe full-payment date.
+request_264,26863.74,affordable_later,wait,2026-04-15:111300,2026-04-15,none,Waiting until 2026-04-15 protects the minimum balance.
+request_265,45970.0,affordable_now,full_payment,2024-03-06:45970,2024-03-06,none,A full payment of 45970 is safe on the request date.
+request_266,935.0,affordable_with_plan,installments,2025-08-03:324.13|2025-08-31:324.13|2025-09-28:324.13,2025-08-03,none,The supplied installment schedule stays above the required minimum balance.
+request_267,1741.53,affordable_with_plan,installments,2026-01-08:667.33|2026-02-07:667.33|2026-03-09:667.33,2026-01-15,none,The supplied installment schedule stays above the required minimum balance.
+request_268,1134.52,affordable_with_plan,installments,2024-06-14:841.22|2024-07-15:841.22|2024-08-15:841.22,2024-06-15,none,The supplied installment schedule stays above the required minimum balance.
+request_269,2483.22,not_affordable,not_recommended,none,,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_270,255.68,not_affordable,not_recommended,none,2026-08-20,none,No eligible payment plan keeps the projected balance above the required minimum.
+request_271,11226.04,affordable_later,wait,2024-10-15:91300,2024-10-15,none,Waiting until 2024-10-15 protects the minimum balance.
+request_272,6721120.51,affordable_with_plan,installments,2025-02-12:4709466.67|2025-03-12:4709466.67|2025-04-09:4709466.67,2025-02-15,none,The supplied installment schedule stays above the required minimum balance.
+request_273,10756514.78,affordable_with_plan,partial_payment,2026-04-07:10756514.78|2026-04-15:5104485.22,2026-04-15,none,Pay 1.07565e+07 now and the remaining balance on the first safe full-payment date.
+request_274,2148.55,affordable_with_plan,installments,2024-12-04:940.75|2025-01-04:940.75|2025-02-04:940.75,2024-12-15,none,The supplied installment schedule stays above the required minimum balance.
+request_275,15884000.0,affordable_now,full_payment,2025-05-06:15884000,2025-05-06,none,A full payment of 1.5884e+07 is safe on the request date.
